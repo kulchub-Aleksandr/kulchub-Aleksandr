@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 <img width="6%" title="Gradle" src="images/logo/Gradle.svg">
 <img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
 <img width="5%" title="Rest_assured" src="images/logo/rest_assured.png">
-<img width="5%" title="Postman" src="images/logo/
-postman-original.svg">
+<img width="5%" title="Postman" src="images/logo/postman-original.svg">
 <img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
 <img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
 <img width="6%" title="Allure Report" src="images/logo/Allure_Report.svg">
