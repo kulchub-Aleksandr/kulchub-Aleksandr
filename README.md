@@ -1,7 +1,21 @@
-## Hi there 👋
+## Привет, я Александр! 👋
 
+### QA Automation Engineer (Java)
 
-**kulchub-Aleksandr/kulchub-Aleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мои проекты по автоматизации тестирования на Java :mortar_board:
+
+### :bank: Проект по автоматизации тестирования Web-интерфейсов сайта [Т БАНК](https://www.tbank.ru/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Beeline_UI_autotests)](https://github.com/Melnikov-A/Beeline_UI_autotests)
+
+### :book: Проект API + UI автоматизации тестов для сайта [Book Club - Читальная](https://book-club.qa.guru/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Reqres_API_autotests)](https://github.com/Melnikov-A/Reqres_API_autotests)
+
+### :iphone::mag: :books:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kulchub-Aleksandr&repo=Lesson_20_mobile_tests)](https://github.com/kulchub-Aleksandr/Lesson_20_mobile_tests)
+
 
 Here are some ideas to get you started:
 
@@ -14,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## <span id="tech-stack"> :computer: Использованный стек технологий и инструментов
+## <span id="tech-stack"> :computer:Стек технологий и инструментов
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
@@ -34,7 +48,7 @@ Here are some ideas to get you started:
 <img width="5%" title="Jira" src="images/logo/Jira.svg">
 </p>
 
-## Ways to reach me:
+## Мои контакты:
 
 [![Telegram](https://img.shields.io/badge/@AleksKulch-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/AleksKulch)
 </a>
