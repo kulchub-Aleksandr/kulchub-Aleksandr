@@ -4,17 +4,15 @@
 
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
-### :bank: Проект по автоматизации тестирования Web-интерфейсов сайта [Т БАНК](https://www.tbank.ru/)
+### :bank: Проект по автоматизации тестирования Web-интерфейсов сайта [Т БАНК](https://github.com/kulchub-Aleksandr/Project_For_Test_Task/tree/add_owner)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Beeline_UI_autotests)](https://github.com/Melnikov-A/Beeline_UI_autotests)
 
-### :book: Проект API + UI автоматизации тестов для сайта [Book Club - Читальная](https://book-club.qa.guru/)
+### :book: Проект API + UI автоматизации тестов для сайта [Book Club - Читальная](https://github.com/kulchub-Aleksandr/Lesson16_25.02.26_BookClub_REST_API/tree/ApiClient_and_UI)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Reqres_API_autotests)](https://github.com/Melnikov-A/Reqres_API_autotests)
 
-### :iphone::mag: :books:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+### :iphone::mag: :books:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://github.com/kulchub-Aleksandr/Lesson_20_mobile_tests)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=kulchub-Aleksandr)](https://github.com/kulchub-Aleksandr/github-readme-stats)
+
 
 
 Here are some ideas to get you started:
@@ -55,3 +53,4 @@ Here are some ideas to get you started:
 <a href="mailto:kulchub@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
+
