@@ -14,7 +14,7 @@
 
 ### :iphone::mag: :books:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=kulchub-Aleksandr)](https://github.com/kulchub-Aleksandr/Lesson_20_mobile_tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=kulchub-Aleksandr)](https://github.com/kulchub-Aleksandr/github-readme-stats)
 
 
 Here are some ideas to get you started:
