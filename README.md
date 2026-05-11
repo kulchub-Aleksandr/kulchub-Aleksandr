@@ -4,13 +4,13 @@
 
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
-### :bank: Проект по автоматизации тестирования Web-интерфейсов сайта [Т БАНК](https://github.com/kulchub-Aleksandr/Project_For_Test_Task/tree/add_owner)
+### 1. :bank: Проект по автоматизации тестирования Web-интерфейсов сайта [Т БАНК](https://github.com/kulchub-Aleksandr/Project_For_Test_Task/tree/add_owner)
 
 
-### :book: Проект API + UI автоматизации тестов для сайта [Book Club - Читальная](https://github.com/kulchub-Aleksandr/Lesson16_25.02.26_BookClub_REST_API/tree/ApiClient_and_UI)
+### 2. :book: Проект API + UI автоматизации тестов для сайта [Book Club - Читальная](https://github.com/kulchub-Aleksandr/Lesson16_25.02.26_BookClub_REST_API/tree/ApiClient_and_UI)
 
 
-### :iphone::mag: :books:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://github.com/kulchub-Aleksandr/Lesson_20_mobile_tests)
+### 3. :iphone::mag: :books:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://github.com/kulchub-Aleksandr/Lesson_20_mobile_tests)
 
 
 
